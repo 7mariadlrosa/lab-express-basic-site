@@ -1,0 +1,44 @@
+footer {
+    background-color: #212429;
+    color: white;
+    text-align: center;
+    padding: 4px;
+    font-size: .7em;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+article a {
+    text-decoration: none;
+    color: red;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.navbar-collapse {
+    background-color: black;
+}
+
+.nav-item {
+    color: red;
+    font-weight: bold;
+}
+
+.gif {
+    width: 750px;
+}
+
+.btn {
+    width: 400px;
+    margin: 10px;
+    background-color: red;
+    color: black;
+    font-weight: bold;
+    border-color: red;
+}
+
+.card-title {
+    font-weight: bold;
+    color: red;
+}
